@@ -1,0 +1,16 @@
+[
+    {
+        "id": "interstellar",
+        "title": "interstellar",
+        "year": 2014,
+        "description": "Hópur könnuðu ferðast í gegnum ormagöng í geimnum",
+        "image": "/images/interstellar.jpg"
+    },
+    {
+        "id": "inception",
+        "title": "inception",
+        "year": 2010,
+        "description": "þjófur sem stelur leyndarmálum úr drauma fólks",
+        "image": "/images/inception.jpg"
+    }
+]
