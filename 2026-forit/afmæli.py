@@ -1,0 +1,1 @@
+print("Til hamingju med afmaelid forritunarkeppni framhaldsskolanna")
